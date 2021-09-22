@@ -1,5 +1,7 @@
 # Lyrics Generator
+
 ![Program start](img/img1.png)
+
 Lyrics Generator was a quick and fun project inspired by [this](https://towardsdatascience.com/ai-generates-taylor-swifts-song-lyrics-6fd92a03ef7e) article. It uses the [LyricsGenius](https://github.com/johnwmillr/LyricsGenius) library to scrape song lyrics of inputted artists off of Genius. It then stores the dataset so that it can be reused and makes use of the [textgenrnn](https://github.com/minimaxir/textgenrnn) library to generate lyrics with an neural network. While the can sometimes be nonsensical, it's still fun to play around with and could be improved by tinkering with the settings and giving it a larger dataset. 
 
 # How to use
