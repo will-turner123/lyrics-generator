@@ -11,4 +11,4 @@ I'd love to see any song lyrics this program is able to generate for you!
 
 ![Output example](img/output1.png)
 
-The result of my trying to have it write angry punk lyrics
+The result of me trying to have it write angry punk lyrics
