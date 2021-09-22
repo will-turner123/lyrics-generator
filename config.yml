@@ -1,0 +1,4 @@
+scraped_songs_quota: 15 # how many songs will be scraped from each artist
+epochs: 25 # amount of epochs to train model on. affects accuracy
+song_length: 15 # number of lines in generated songs
+access_token: '' # genius access token
